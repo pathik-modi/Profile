@@ -8,9 +8,9 @@ After years of interest in tech and self-learning over the year, I decided to ta
 ## How to reach me
 Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/pathik-modi/), or get in touch [via email](mailto:modipathik95@gmail.com)! 
 
-## See more below
-[Here's a link to my CV](https://github.com/pathik-modi/pathik-modi/files/13724141/CV2023.pdf)
+## Here's a link to my CV
+[CV 2023](https://github.com/pathik-modi/pathik-modi/files/13724141/CV2023.pdf)
 
-#### Github Stats
+## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathik-modi&layout=compact&theme=dark) 
 
