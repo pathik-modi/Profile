@@ -8,5 +8,8 @@ After years of interest in tech and self-learning over the year, I decided to ta
 # How to reach me
 Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/pathik-modi/), or get in touch [via email](mailto:modipathik95@gmail.com)! 
 
+# Here's a link to my CV
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathik-modi&layout=compact&theme=dark) 
 
