@@ -11,11 +11,6 @@ Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/pathik-modi/), or g
 # See more below
 [Here's a link to my CV](https://github.com/pathik-modi/pathik-modi/files/13724141/CV2023.pdf)
 
-
-
-
-
-
-
+#### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathik-modi&layout=compact&theme=dark) 
 
