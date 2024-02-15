@@ -5,7 +5,7 @@ My experience from a fast-paced administrative role at a large organisation and 
 
 After years of interest in tech and self-learning over the year, I decided to take a plunge into programming and have been hooked ever since. I am excited to bring my fresh perspectives and problem-solving skills to make a meaningful contribution to a dynamic team.
 
-Check out my deployed .Net + Angular web app
+Check out my live .Net + Angular web app
 https://datingapppathik-3e22183e1486.herokuapp.com/ 
 
 ## How to reach me
