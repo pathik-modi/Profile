@@ -10,7 +10,7 @@ After years of interest in tech and self-learning over the year, I decided to ta
 
 👥 - Let's connect on [![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathik-modi/)
 
-📃  - Check out my [CV here](https://github.com/pathik-modi/pathik-modi/files/13724141/CV2023.pdf)
+📃  - Check out my [CV2024](https://github.com/pathik-modi/pathik-modi/files/13724141/CV2023.pdf)
 
 ## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathik-modi&layout=compact&theme=dark) 
